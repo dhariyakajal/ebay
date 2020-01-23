@@ -1,0 +1,8 @@
+git config --global user.email "dhariyaparamrkajal82@gmail.com"
+git config --global user.name "kajal"
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dhariyakajal/gitlearning.git
+git push -u origin master
